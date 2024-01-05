@@ -81,7 +81,16 @@
 // result = c(b);
 // console.log("Temperature is: ", result)
 
+function myFun(a, b) {
+    sum = a + b;
+    return sum;
+}
+result = myFun(4, 10);
+console.log(result)
+
 //String Method
+let myName = "Jitendra Jahrila";
+console.log(myName.length)
 
 
 
